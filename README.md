@@ -3,13 +3,6 @@ Supplementary dataset and code for Machine learning based phase prediction and p
 
 This repository contains the supplementary dataset and source code associated with the article:  
 
-## Citation
-If you use this code, please cite:
-
-Priyabrata Das and Pulak Mohan Pandey, "Machine learning based phase prediction and powder metallurgy assisted experimental validation of medium entropy compositionally complex alloys",  Modelling and Simulation in Materials Science and Engineering, 31(8), 085010, 2023. DOI: 10.1088/1361-651X/ad04f4
-
----
-
 
 ## Contents
 - `dataset/` – Processed dataset used for the machine learning phase prediction.
@@ -22,5 +15,9 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ## Code License
 This code is licensed under the MIT License.  
-Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, provided attribution is included.  
+Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, provided attribution is included. 
 Full license text: https://opensource.org/licenses/MIT
+
+## Citation
+If you use this code, please cite:
+Priyabrata Das and Pulak Mohan Pandey, "Machine learning based phase prediction and powder metallurgy assisted experimental validation of medium entropy compositionally complex alloys",  Modelling and Simulation in Materials Science and Engineering, 31(8), 085010, 2023. DOI: 10.1088/1361-651X/ad04f4
