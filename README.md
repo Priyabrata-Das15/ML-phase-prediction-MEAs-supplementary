@@ -12,7 +12,6 @@ DOI: [10.1088/1361-651X/ad04f4](https://iopscience.iop.org/article/10.1088/1361-
 
 ## Contents
 - `dataset/` – Processed dataset used for the machine learning phase prediction.
-- `code/` – MATLAB code for combinatorial quarternary alloy design
 - `code/` – Python scripts for model training, validation, and analysis.
 
 ## Dataset License
