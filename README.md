@@ -1,8 +1,6 @@
 # ML-phase-prediction-MEAs-supplementary
 Supplementary dataset and code for Machine learning based phase prediction and powder metallurgy assisted experimental validation of medium entropy compositionally complex alloys (Priyabrata Das & Pulak Mohan Pandey, 2023, Modelling Simul. Mater. Sci. Eng. DOI: 10.1088/1361-651X/ad04f4
 
-This repository contains the supplementary dataset and source code associated with the article:  
-
 
 ## Contents
 - `dataset/` – Processed dataset used for the machine learning phase prediction.
